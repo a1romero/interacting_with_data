@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, Helvetica;
+}
+
+iframe {
+    width: 60%;
+    height: 80%;
+    border: none;
+}
